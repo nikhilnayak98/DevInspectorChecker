@@ -37,4 +37,4 @@ setInterval(function() {
       } else {
       	// If Dev Inspector is Close
       }
-}, 1000)
+}, 1000)
